@@ -1,0 +1,183 @@
+.avatar {
+    position: absolute;
+    top: 20%;
+    left: 0%;
+    right: 0%;
+    width: 98vw;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: lightblue;
+    padding: 15px;
+    grid-column-gap: 50px;
+}
+.bilde1 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa00.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+
+.bilde2 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa01.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+
+.bilde3 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa02.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde4 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa03.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde5 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa04.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde6 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa05.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde7 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa06.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde8 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa07.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde9 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa08.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde10 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa09.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde11 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa10.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde12 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa11.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde13 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa12.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde14 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa13.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde15 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa14.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+.bilde16 {
+    background-image: url("/Users/mariusbratvold/Desktop/Avatar/Bilder/aa15.png");
+    background-color: white;
+    border: 0.5px solid black;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    width: 10px;
+
+}
+
+body {
+    background-color: lightblue;
+}
+
+
+
+
+
